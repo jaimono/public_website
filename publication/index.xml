@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Jaime Montaña</title>
-    <link>https://jaimono.github.io/ws/publication/</link>
-      <atom:link href="https://jaimono.github.io/ws/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jaimono.github.io/publication/</link>
+      <atom:link href="https://jaimono.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jaimono.github.io/ws/images/icon_hu54220b826ab9c6f3e4f416451323094b_18877_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jaimono.github.io/images/icon_hu54220b826ab9c6f3e4f416451323094b_18877_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
-      <link>https://jaimono.github.io/ws/publication/</link>
+      <link>https://jaimono.github.io/publication/</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://jaimono.github.io/ws/publication/preprint/</link>
+      <link>https://jaimono.github.io/publication/preprint/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://jaimono.github.io/ws/publication/preprint/</guid>
+      <guid>https://jaimono.github.io/publication/preprint/</guid>
       <description></description>
     </item>
     
