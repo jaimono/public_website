@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Jaime Montaña</title>
-    <link>https://jaimono.github.io/public_website/categories/</link>
-      <atom:link href="https://jaimono.github.io/public_website/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.jaimemmontana.com/categories/</link>
+      <atom:link href="https://www.jaimemmontana.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright>
     <image>
-      <url>https://jaimono.github.io/public_website/images/icon_hu54220b826ab9c6f3e4f416451323094b_18877_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.jaimemmontana.com/images/icon_hu54220b826ab9c6f3e4f416451323094b_18877_512x512_fill_lanczos_center_2.png</url>
       <title>Categories</title>
-      <link>https://jaimono.github.io/public_website/categories/</link>
+      <link>https://www.jaimemmontana.com/categories/</link>
     </image>
     
   </channel>
